@@ -1,0 +1,38 @@
+body{
+    font-family: 'Arimo', sans-serif;
+    
+}
+h1{
+    text-align: center;
+    text-shadow: 4px 4px rgb(10, 6, 5);
+    font-size: 60px;
+    background-color: tomato;
+    padding: 10px;
+    margin: 0;
+    color: white; 
+}
+.flex-container{
+    display: flex;
+    margin-top: 100px;
+    
+
+}
+.fashion-hub{
+    width: 80%;
+    padding: 5%;
+}
+.fashion-hub img{
+width: 100%;
+
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 50px;
+    color: rgb(55, 26, 180);
+    text-shadow: 5px 5px  rgb(214, 230, 156);
+}
+.experience-item{
+     width: 40%;
+    
+}
