@@ -14,12 +14,14 @@ h1{
 .flex-container{
     display: flex;
     margin-top: 100px;
+    margin: auto;
     
 
 }
 .fashion-hub{
     width: 80%;
     padding: 5%;
+    
 }
 .fashion-hub img{
 width: 100%;
@@ -35,4 +37,7 @@ h2{
 .experience-item{
      width: 40%;
     
+}
+.height-change{
+    height: 500px;
 }
